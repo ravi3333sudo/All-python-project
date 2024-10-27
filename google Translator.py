@@ -18,15 +18,6 @@ def data():
     dest_txt.delete(1.0,END)
     dest_txt.insert(END,textget)
 
-
-
-
-
-
-
-
-
-
 root = Tk()
 root.title("Translator")
 root.geometry("500x700")
